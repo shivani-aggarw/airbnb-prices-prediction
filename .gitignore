@@ -3,3 +3,4 @@ archive/
 data/raw/
 data/processed/
 .Rproj.user
+*/.DS_Store
