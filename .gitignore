@@ -1,5 +1,5 @@
 archive/
 .ipynb_checkpoints/
-data/raw/*
-data/processed/*
+data/raw/
+data/processed/
 .Rproj.user
